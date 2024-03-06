@@ -1,1 +1,35 @@
+# "Hello, world!"
 
+> If, at first, you do not succeed, call it version 1.0. 
+>
+> -Khayri R.R. Woulfe
+
+Hi there! I'm a *young* **dev** and **programmer** based in the US. I'm new to the GitHub community, but hope to make a greta impact on it! I specialize in Python programming. I am passionate about **Interpreters**, **Compilers**, and **React Programming**. Currently, I'm looking forward on working on open-source projects. Besides programming, I like to play [Gimkit](https://www.gimkit.com/) and Roblox in my spare time. 
+
+**Skills** : Python(Advanced), HTML(Intermediate), CSS(Beginner), JavaScript(Intermediate), C/C++(Beginner). <br>
+**Tools** : GitHub, VS Code, Itch.io, 
+<br>
+<br>
+
+* 🔭 I’m currently working on **TEPL**.
+* 🌱 I’m currently learning everything.🤣
+* 🤔 I hope to be proficient in React. 
+* 💬 Ask me about anything and I would like to answer.
+* 📫 Please contact me via valuex.programmer.ces@gmail.com
+
+-----
+
+
+ <br>
+ <br>
+ <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TENTHER101&layout=compact&hide=html&theme=dracula"/>
+ 
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TENTHER101&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P><br>
+  
+ 
+ 
+ 
+----------------
