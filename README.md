@@ -19,6 +19,11 @@ Extension on Skills: <br>
 ```
 <br>
 <br>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+<br>
+<br>
 
 * 🔭 I’m currently working on **TEPL**.
 * 🌱 I’m currently learning everything.🤣
