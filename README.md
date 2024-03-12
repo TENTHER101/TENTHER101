@@ -43,7 +43,8 @@ Extension on Skills: <br>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=TENTHER101&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br>
   
- 
+ .. image:: https://wakatime.com/share/@018e3363-d9d8-470f-9061-732c274749e8/deb7683f-9612-426f-aafc-dd6fed80cd22.png
+    :target: https://wakatime.com/
  
  
 ----------------
