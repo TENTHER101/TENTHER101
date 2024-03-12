@@ -6,8 +6,17 @@
 
 Hi there! I'm a *young* **dev** and **programmer** based in the US. I'm new to the GitHub community, but hope to make a greta impact on it! I specialize in Python programming. I am passionate about **Interpreters**, **Compilers**, and **React Programming**. Currently, I'm looking forward on working on open-source projects. Besides programming, I like to play [Gimkit](https://www.gimkit.com/) and Roblox in my spare time. 
 
-**Skills** : Python(Advanced), HTML(Intermediate), CSS(Beginner), JavaScript(Intermediate), C/C++(Beginner). <br>
-**Tools** : GitHub, VS Code, Itch.io, 
+**Skills** : Python(Advanced), HTML(Intermediate), CSS(Beginner), JavaScript(Intermediate), C/C++(Beginner), Swift(Intermediate). <br>
+**Tools** : GitHub, VS Code, Itch.io, Replit.  
+
+Extension on Skills: <br>
+```
+| Language   |  Yrs of Exp |                              Proof                            | 
+| Python     |     >1      |                 https://onlinegdb.com/KeN2PWVCL               | 
+| JavaScript |     >2      |                                                               | 
+| HTML       |     >1      | https://www.sololearn.com/en/compiler-playground/WJEP54KD5eoQ | 
+| CSS        |     <1      |                                                               | 
+```
 <br>
 <br>
 
