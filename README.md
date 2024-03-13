@@ -21,6 +21,14 @@ Extension on Skills: <br>
 <br>
 <!--START_SECTION:waka-->
 
+```ocaml
+From: 12 March 2024 - To: 12 March 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br>
 <br>
