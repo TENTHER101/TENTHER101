@@ -11,29 +11,14 @@ Hi there! I'm a *young* **dev** and **programmer** based in the US. I'm new to t
 
 Extension on Skills: <br>
 ```
-| Language   |  Yrs of Exp |                              Proof                            | 
-| Python     |     >1      |                 https://onlinegdb.com/KeN2PWVCL               | 
-| JavaScript |     >2      |                                                               | 
-| HTML       |     >1      | https://www.sololearn.com/en/compiler-playground/WJEP54KD5eoQ | 
-| CSS        |     <1      |                                                               | 
+| Language   |  Yrs of Exp |                              Level of Exp                     | 
+| Python     |     >1      |                 ▰▰▰▰▰▰▰▰▱▱   85%                      |
+| JavaScript |     >2      |                 ▰▰▰▰▰▰▰▰▱▱   85%                      | 
+| HTML       |     >1      |                 ▰▰▰▰▰▰▱▱▱▱    69%                     | 
+| CSS        |     <1      |                 ▰▰▰▰▱▱▱▱▱▱    45%                     | 
 ```
 <br>
 <br>
-<!--START_SECTION:waka-->
-
-```ocaml
-From: 12 March 2024 - To: 08 April 2024
-
-Total Time: 22 mins
-
-Python       9 mins          ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   38.55 %
-JavaScript   6 mins          ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   25.97 %
-HTML         5 mins          ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   20.27 %
-Other        2 mins          ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.59 %
-CSS          0 secs          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.63 %
-```
-
-<!--END_SECTION:waka-->
 <br>
 <br>
 
@@ -54,8 +39,6 @@ CSS          0 secs          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
   
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=TENTHER101&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br>
-  
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e3363-d9d8-470f-9061-732c274749e8/deb7683f-9612-426f-aafc-dd6fed80cd22.png" /></a>
  
  
 ----------------
